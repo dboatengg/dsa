@@ -51,6 +51,7 @@ let numbers = [1,2,3,4,5,6]
         
 //====================================================Sparse array
 //a sparse array is an array with some gaps in it.
-let sparse = [1,2,3]
-sparse[5] = 10
-console.log(sparse.length)
+// let sparse = [1,2,3]
+// sparse[5] = 10
+// console.log(sparse)
+// console.log(sparse.length)
