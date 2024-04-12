@@ -45,10 +45,10 @@ let numbers = [1,2,3,4,5,6]
     // }
     
     // for (number of numbers){
-        //     if(number === 2) break;
-        //     console.log(number)
-        // }
-        
+    //     if(number === 2) break;
+    //     console.log(number)
+// }
+
 //====================================================Sparse array
 //a sparse array is an array with some gaps in it.
 // let sparse = [1,2,3]

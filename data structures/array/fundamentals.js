@@ -21,6 +21,13 @@ let groceries = ["milk","orange","oat","soft drink"]
 // console.log(groceries.indexOf('milk')) //if item exists, item index position will be returned
 // console.log(groceries.indexOf('me')) //else, -1 will be returned
 
+//===============================================slice method
+// const slice = groceries.slice()
+// const slice2 = groceries.slice(1)
+// const slice3 = groceries.slice(1,3)
 
+// console.log(slice)
+// console.log(slice2)
+// console.log(slice3)
 
-console.log(groceries)
+console.log(groceries.splice(1,2))

@@ -31,11 +31,8 @@ let numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12];
 // let value  = numbers.reduce((total,current) => total + current, 0)
 // console.log(value)
 
-
 // let sentence = words.reduce((total, current) => total + ' ' + current)
 // console.log(sentence);
-
-
 
 //>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>NOTEs
 //- name.slice(1) returns a new string containing the characters of the original string starting from the index 1 
